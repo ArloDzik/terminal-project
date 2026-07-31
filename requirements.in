@@ -1,6 +1,7 @@
-pandas >= 2.0
+pandas >= 3.0
 streamlit
 requests
 python-dotenv
 jupyter
 ipykernel
+pytest
